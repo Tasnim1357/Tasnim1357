@@ -4,7 +4,7 @@
 
 ### About Me
 
-I am a passionate frontend developer with expertise in HTML, CSS, JavaScript, and React JS. I specialize in creating dynamic and responsive web applications. My skills extend to backend technologies like Node JS, MongoDB, and Express JS, ensuring seamless full-stack development. I also have experience with Firebase authentication, adding robust security features to my projects. Let's build something amazing together! 🚀
+I am a passionate frontend developer with expertise in HTML, CSS, JavaScript, and React JS. I specialize in creating dynamic and responsive web applications. My skills extend to backend technologies like Node JS, MongoDB, and Express JS, ensuring seamless full-stack development. I also have experience with Firebase authentication, adding robust security features to my projects. Let's build something amazing together! 
 
 Feel free to check out my projects and contributions below.
 
