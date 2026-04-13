@@ -7,6 +7,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Tasnim%20Hossain%20Timom&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer&descAlignY=55)
 
+
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=React+JS+Developer;JavaScript+Enthusiast;Building+Responsive+Web+Apps" />
 </p>
