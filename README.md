@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.ibb.co.com/d0vQ1BH6/Cover-image.png" width="600"/>
+</p>
 
 ### Hi there 👋, I am Tasnim Hossain Timom
 #### I am a Front-end Developer
