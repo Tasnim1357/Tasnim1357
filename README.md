@@ -5,7 +5,9 @@
 ### Hi there 👋, I am Tasnim Hossain Timom
 #### I am a Front-end Developer
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:0f0c29&height=250&section=header&text=Tasnim%20Hossain%20Timom&fontSize=40&fontColor=00FFFF&animation=twinkling&desc=Frontend%20Developer%20%F0%9F%92%BB&descAlignY=60)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+I'm+Tasnim+Hossain+Timom;Frontend+Developer;React+JS+Specialist;Building+Modern+Web+Apps" />
+</p>
 
 ### About Me
 
