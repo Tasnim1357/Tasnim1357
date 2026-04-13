@@ -1,4 +1,6 @@
-<img align="center" src="https://ibb.co.com/sv4FkjXQ" alt="tasnim1357" />
+<p align="center">
+  <img src="https://i.ibb.co/xxxxx/sample.png" alt="tasnim1357" />
+</p>
 ### Hi there 👋, I am Tasnim Hossain Timom
 #### I am a Front-end Developer
 ![I am a Front-end Developer](https://media.licdn.com/dms/image/D5616AQHbz9AoaVClSw/profile-displaybackgroundimage-shrink_350_1400/0/1719354650226?e=1725494400&v=beta&t=0XQhbPPqQz-iOSyLNc5W1NoXeZL2vWNV_rpYDjG5SVo)
