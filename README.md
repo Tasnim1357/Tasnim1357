@@ -10,7 +10,7 @@ Feel free to check out my projects and contributions below.
 
 
 - 🔭 I’m currently working on AiseTechnologies. 
-- 🌱 I’m currently learning Programming Hero 
+- 🌱 I’m currently learning Full Stack Development with Django
 - 👯 I’m looking to collaborate on  with other Developers 
 - 📫 How to reach me: Email : tasnimhossaintimom@gmail.com 
 - ⚡ Fun fact: I love to draw and read books 
