@@ -4,7 +4,15 @@
 
 ### Hi there 👋, I am Tasnim Hossain Timom
 #### I am a Front-end Developer
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=250&section=header&text=Tasnim%20Hossain%20Timom&fontSize=40&fontColor=00FFFF&animation=twinkling&desc=Frontend%20Developer%20%7C%20React%20%7C%20JavaScript%20%7C%20Node.js&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=250&section=header&text=Tasnim%20Hossain%20Timom&fontSize=40&fontColor=00FFFF&animation=twinkling&desc=Frontend%20Developer&descAlignY=60)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00FFFF&center=true&vCenter=true&width=700&lines=AI+Inspired+Frontend+Developer;React+JS+%7C+JavaScript+%7C+Node.js;Building+Modern+Web+Apps" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,firebase,github" />
+</p>
 ### About Me
 
 I am a passionate frontend developer with expertise in HTML, CSS, JavaScript, and React JS. I specialize in creating dynamic and responsive web applications. My skills extend to backend technologies like Node JS, MongoDB, and Express JS, ensuring seamless full-stack development. I also have experience with Firebase authentication, adding robust security features to my projects. Let's build something amazing together! 
