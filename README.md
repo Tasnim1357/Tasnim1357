@@ -4,7 +4,8 @@
 
 ### Hi there 👋, I am Tasnim Hossain Timom
 #### I am a Front-end Developer
-(https://media.licdn.com/dms/image/D5616AQHbz9AoaVClSw/profile-displaybackgroundimage-shrink_350_1400/0/1719354650226?e=1725494400&v=beta&t=0XQhbPPqQz-iOSyLNc5W1NoXeZL2vWNV_rpYDjG5SVo)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=35)
 
 ### About Me
 
